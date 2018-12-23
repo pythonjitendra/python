@@ -7,6 +7,11 @@
 # Search
 # Spilt
 
+# Regular Expression Definition :
+#A regular expression is a special sequence of characters that helps you match or find other strings or sets of strings, 
+#using a specialized syntax held in a pattern. Regular expressions are widely used in UNIX world. The module re provides 
+#full support for Perl-like regular expressions in Python.
+
 #Instead of using above function we will read some metacharcters below are:
 ## Metacharcters
 #? , . ,[] ,{} , + ,* , \d ,\D,\s ,\S, |, ^ , $, |w, \W,\w+ many more
