@@ -7,6 +7,9 @@
 # Search
 # Spilt
 
+#Pleaase Refer this link
+#https://docs.python.org/3/howto/regex.html
+
 # Regular Expression Definition :
 #A regular expression is a special sequence of characters that helps you match or find other strings or sets of strings, 
 #using a specialized syntax held in a pattern. Regular expressions are widely used in UNIX world. The module re provides 
