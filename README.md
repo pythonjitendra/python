@@ -5,6 +5,7 @@ We are planning to cover all lessions related to core and Advance python Lecture
 <br>
 1- Core Python will cover :
 <br>
+<li>
   1- Basic and Overview of Python
   2- Number
   3- String
@@ -18,10 +19,12 @@ We are planning to cover all lessions related to core and Advance python Lecture
   11- Function
   12- Datetime
   13- Excetion Handling
+  </li>
   
 <br>
 2- Advace will cover following topic in python
 <br>
+<li>
   1- OOPs
   2- Regex
   3- Sending Mail
@@ -31,4 +34,5 @@ We are planning to cover all lessions related to core and Advance python Lecture
   7- Socket Programming
   8- Database (Postgresql)
   9- Tkinter (GUI Programming)
+  </li>
   
