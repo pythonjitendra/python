@@ -25,7 +25,7 @@
 
 # Connect With MySQL Database
 import pymysql
-db=pymysql.connect("127.0.0.1","root","Abcd#1234","student")
+db=pymysql.connect("127.0.0.1","root","XXXXXXX","student")
 
 # connection statement
 try:
