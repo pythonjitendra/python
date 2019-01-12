@@ -21,6 +21,7 @@ We are planning to cover all lessions related to core and Advance python Lecture
   
 <br>
 2- Advace will cover following topic in python
+<br>
   1- OOPs
   2- Regex
   3- Sending Mail
